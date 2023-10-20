@@ -8,7 +8,7 @@
 
 ### Инструкция по запуску:
 
-```python3
+```bash
 python3 diff.py
 ```  
 
